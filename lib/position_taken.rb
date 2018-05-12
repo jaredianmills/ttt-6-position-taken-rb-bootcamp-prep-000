@@ -5,4 +5,4 @@ end
 
 board = [" ", "X", " "]
 
-position_taken?()
+position_taken?(board, 1)
