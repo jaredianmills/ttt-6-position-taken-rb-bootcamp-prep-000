@@ -3,6 +3,4 @@ def position_taken?(board, index)
   board[index] == "X" || board[index] == "O"
 end
 
-board = [" ", "X", " "]
 
-position_taken?(board, 1)
